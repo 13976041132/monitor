@@ -1,0 +1,16 @@
+{
+    "name": "Eli/monitor",
+    "description": "api monitor",
+    "authors": [
+        {
+            "name": "Eli",
+            "email": "13976041132@163.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Eli\\Monitor\\": "src/"
+        }
+    }
+}
