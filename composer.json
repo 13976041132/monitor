@@ -7,6 +7,7 @@
             "email": "13976041132@163.com"
         }
     ],
+    "minimum-stability": "dev",
     "require": {},
     "autoload": {
         "psr-4": {
